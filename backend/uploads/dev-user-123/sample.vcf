@@ -1,0 +1,5 @@
+##fileformat=VCFv4.2
+##source=GENO-Demo
+#CHROM  POS     ID          REF ALT QUAL FILTER INFO
+11      113344  rs1800497   C   T   .    PASS   .
+6       154039  rs1799971   A   G   .    PASS   .
